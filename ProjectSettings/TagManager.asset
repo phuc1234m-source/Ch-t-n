@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Obstacles
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Buildings
+  - DecorBack
+  - Road
+  - Obstacles
+  - DecorFront
+  - UI
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Roads
+    uniqueID: 3215467927
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Obstacles
+    uniqueID: 1751504487
+    locked: 0
+  - name: Houses
+    uniqueID: 939918597
+    locked: 0
+  - name: Player
+    uniqueID: 102502119
+    locked: 0
+  m_RenderingLayers:
+  - Default
