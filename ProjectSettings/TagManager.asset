@@ -54,5 +54,8 @@ TagManager:
   - name: Player
     uniqueID: 102502119
     locked: 0
+  - name: Top obstacles
+    uniqueID: 788391873
+    locked: 0
   m_RenderingLayers:
   - Default
